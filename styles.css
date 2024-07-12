@@ -1,6 +1,17 @@
 /*  your css code here. If applicable */
 <html>
 <head>
+<style>
+p { color: blue;
+   text-align: center
+  }
+</style>
+</head>
+<body>
+<P><h1> Welcome to Accio Jobs!</h1></P>
+</body>
+</html>
+
 <title> welcome to accio Jobs! </title>
 </head>
 </html>
